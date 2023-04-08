@@ -34,9 +34,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.github.thanglequoc</groupId>
+			<groupId>io.github.thanglequoc</groupId>
 			<artifactId>timer-ninja</artifactId>
-			<version>1.1-SNAPSHOT</version>
+			<version>1.0.0</version>
 			<scope>compile</scope>
 		</dependency>
 	</dependencies>
@@ -54,7 +54,7 @@
 					<target>11</target>
 					<aspectLibraries>
 						<aspectLibrary>
-							<groupId>com.github.thanglequoc</groupId>
+							<groupId>io.github.thanglequoc</groupId>
 							<artifactId>timer-ninja</artifactId>
 						</aspectLibrary>
 					</aspectLibraries>

@@ -1,6 +1,6 @@
 package com.github.thanglequoc.timerninjatodolistmaven.user.controller;
 
-import com.github.thanglequoc.timerninja.TimerNinjaTracker;
+import io.github.thanglequoc.timerninja.TimerNinjaTracker;
 import com.github.thanglequoc.timerninjatodolistmaven.user.User;
 import com.github.thanglequoc.timerninjatodolistmaven.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

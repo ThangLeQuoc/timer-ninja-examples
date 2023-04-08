@@ -1,6 +1,6 @@
 package com.github.thanglequoc.timerninjatodolistmaven.user.service;
 
-import com.github.thanglequoc.timerninja.TimerNinjaTracker;
+import io.github.thanglequoc.timerninja.TimerNinjaTracker;
 import com.github.thanglequoc.timerninjatodolistmaven.user.User;
 
 public class DummyUserRepository {
