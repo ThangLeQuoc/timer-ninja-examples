@@ -1,6 +1,6 @@
 package com.github.thanglequoc.timerninjatodolistgradle.user.service;
 
-import com.github.thanglequoc.timerninja.TimerNinjaTracker;
+import io.github.thanglequoc.timerninja.TimerNinjaTracker;
 import com.github.thanglequoc.timerninjatodolistgradle.user.User;
 
 public class DummyUserRepository {

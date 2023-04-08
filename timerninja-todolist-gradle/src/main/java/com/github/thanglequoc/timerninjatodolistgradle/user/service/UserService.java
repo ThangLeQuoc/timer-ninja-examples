@@ -2,8 +2,8 @@ package com.github.thanglequoc.timerninjatodolistgradle.user.service;
 
 import java.time.temporal.ChronoUnit;
 
-import com.github.thanglequoc.timerninja.TimerNinjaTracker;
 import com.github.thanglequoc.timerninjatodolistgradle.user.User;
+import io.github.thanglequoc.timerninja.TimerNinjaTracker;
 import org.springframework.stereotype.Service;
 
 @Service
