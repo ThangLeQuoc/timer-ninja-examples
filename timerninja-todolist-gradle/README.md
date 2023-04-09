@@ -5,23 +5,7 @@ with the [Timer Ninja library](https://github.com/ThangLeQuoc/timer-ninja) to me
 
 ## How to use
 ### Build the Timer Ninja library on your local
-
-Since the Timer Ninja has not make it way to the Maven central repository, so you need to follow this workaround
-at the moment
-
-🙈 **Head up! This library has not yet been published to Maven central repository!**   
-If you're reading this, then this library has not yet make it way to Maven central repository to download.  
-I'm working very hard to ship this library to the Maven central repository in a few more days.   
-In the meantime, please check out and build, then publish this dependency to your local maven repository in order to use
-
-```bash
-git clone https://github.com/ThangLeQuoc/timer-ninja.git
-cd timer-ninja
-./gradlew build
-./gradlew publishToMavenLocal
-```
-
-### Clone and build the project
+Clone and build the project
 
 ```bash
 git clone https://github.com/ThangLeQuoc/timer-ninja-examples.git
