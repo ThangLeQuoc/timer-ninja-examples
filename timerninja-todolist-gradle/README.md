@@ -4,7 +4,6 @@ This is an example of a Spring Boot project with gradle build, integrated
 with the [Timer Ninja library](https://github.com/ThangLeQuoc/timer-ninja) to measure code execution
 
 ## How to use
-### Build the Timer Ninja library on your local
 Clone and build the project
 
 ```bash
