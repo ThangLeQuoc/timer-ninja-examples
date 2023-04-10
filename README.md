@@ -17,5 +17,5 @@ At the end of the guide, you will be able to see the execution time it took for 
 
 ## List of example
 [Spring Boot with Gradle build](https://github.com/ThangLeQuoc/timer-ninja-examples/tree/main/timerninja-todolist-gradle)  
-[Spring Boot with Maven build](https://github.com/ThangLeQuoc/timer-ninja-examples/tree/main/timerninja-todolist-maven)
-[Plain Java with Gradle build](https://github.com/ThangLeQuoc/timer-ninja-examples/tree/main/timer-ninja-plain-java-gradle)
+[Spring Boot with Maven build](https://github.com/ThangLeQuoc/timer-ninja-examples/tree/main/timerninja-todolist-maven)  
+[Plain Java with Gradle build](https://github.com/ThangLeQuoc/timer-ninja-examples/tree/main/timer-ninja-plain-java-gradle)  
